@@ -1,4 +1,4 @@
-<script>
+
    const videos = [
      { id: 'He1EBbeuEr0', title: 'Video 1', description: 'A Lenda da CRIATURA O RETORNO', link: 'https://www.youtube.com/watch?v=He1EBbeuEr0' },
      { id: 'fD9ojIhO8lA', title: 'Video 2', description: 'COISA ESTRANHA DENTRO DA IGREJA ASSOMBRADA', link: 'https://www.youtube.com/watch?v=fD9ojIhO8lA' },
@@ -55,4 +55,4 @@
    }
 
    updateVideo();
- </script>
+
